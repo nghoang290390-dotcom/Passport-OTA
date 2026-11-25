@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1795608558,
+      "filename": "lineage-19.1-20261125-UNOFFICIAL-hoang-wseries.zip",
+      "id": "0c397547c0bd48d8e122f1f5ab8dcd30bec63955db4790d3700d9b7b93cb3828",
+      "romtype": "unofficial",
+      "size": 786018520,
+      "url": "https://github.com/nghoang290390-dotcom/Passport-OTA/releases/download/oslo-20261125-1795608558/lineage-19.1-20261125-UNOFFICIAL-hoang-wseries.zip",
+      "version": "19.1"
+    }
+  ]
+}
